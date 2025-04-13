@@ -713,6 +713,6 @@ btn_predict.on_click(predict_heating_load)
 display(*inputs.values(), btn_predict, output)
 ```
 
-![slider-dashboard](slider-dashboard.jpg)
+![slider-dashboard](slider-dashboard.JPG)
 
 Machine learning models developed in Jupyter Notebook (.ipynb) can also be successfully exported and applied in real-world scenarios. One effective way to deploy such models is by using MLflow – an open-source platform that allows to turn ML models into REST APIs and export them to popular cloud environments (Docker, Apache Spark, AWS SageMaker, Azure ML). This provides a fast and convenient path to production deployment, enabling the use of trained models in commercial applications.
