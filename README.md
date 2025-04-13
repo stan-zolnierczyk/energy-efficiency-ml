@@ -628,7 +628,7 @@ plt.grid(True)
 plt.show()
 ```
 
-![png](output_38_0.PNG)
+![png](output_38_0.png)
 
 Another way to present the outcome is to overlay the actual and predicted values of the target variable from the test set.
 
@@ -654,7 +654,7 @@ plt.grid(True)
 plt.show()
 ```
 
-![png](output_40_0.PNG)
+![png](output_40_0.png)
 
 # Summary and Conclusions
 
